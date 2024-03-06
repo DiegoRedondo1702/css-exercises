@@ -8,6 +8,7 @@ img {
 }
 
 .title {
+  text-align: center;
   font-size: 36px;
   font-weight: 900;
 }
@@ -23,4 +24,16 @@ img {
   align-items: center;
   justify-content: center;
   background: #eee;
+}
+
+.dibujos{
+  display: flex;
+  justify-content: center;
+  gap: 52px;
+}
+
+.imagen{
+  justify-content: center;
+  text-align: center;
+
 }
