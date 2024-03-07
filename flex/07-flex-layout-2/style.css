@@ -30,6 +30,8 @@ body {
   width: 250px;
   background: royalblue;
   box-sizing: border-box;
+  flex-shrink: 0;
+  padding: 10px;
 }
 
 .card {
@@ -67,7 +69,3 @@ a {
   font-size: 18px;
 }
 
-.sidebar {
-  flex-shrink: 0;
-  padding: 10px;
-}
